@@ -1,0 +1,7 @@
+__pycache__/
+Lib/
+Scripts/
+Include/
+
+*.pyc
+*.cfg
